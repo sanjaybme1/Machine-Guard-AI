@@ -14,7 +14,7 @@ from openai import OpenAI
 # ==========================================
 st.set_page_config(page_title="MachineGuard AI", page_icon="⚙", layout="wide")
 
-DEFAULT_API_KEY = "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"
+DEFAULT_API_KEY = "your_api_key"
 
 # Custom CSS for Bloomberg Terminal style with dark industrial aesthetics
 st.markdown("""
